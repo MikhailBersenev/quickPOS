@@ -4,7 +4,7 @@ class DbConfig:
    _dbName:str = 'pos_bakery'
    _dbUser:str = 'postgres'
    _dbPassword:str = '123456'
-   def __init__():
+   def __init__(self):
       pass
    """
    def __init__(dbHost, dbPort, dbName, dbUser, dbPassword):
