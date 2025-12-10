@@ -1,0 +1,2 @@
+# quickPOS backend application
+

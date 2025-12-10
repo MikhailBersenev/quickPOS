@@ -1,0 +1,2 @@
+# Core модули для quickPOS
+
